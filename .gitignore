@@ -1,0 +1,7 @@
+assets/*
+!assets/JetBrainsMono-Bold.ttf
+clip.mp4
+first.png
+last.png
+mid.png
+out/

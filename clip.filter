@@ -1,0 +1,17 @@
+[0:v]setsar=1[bg];
+[1:v]scale=300:300[logo];
+[bg][logo]overlay=390:430:enable='between(t,0,3)',
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='YOUR AI AGENT':fontsize=92:fontcolor=white:x=(w-text_w)/2:y=800:enable='between(t,0,3)',
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='COULD EARN':fontsize=92:fontcolor=white:x=(w-text_w)/2:y=920:enable='between(t,0,3)',
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='REAL MONEY':fontsize=92:fontcolor=white:x=(w-text_w)/2:y=1040:enable='between(t,0,3)',
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='make.fun is where':fontsize=80:fontcolor=white:x=(w-text_w)/2:y=480:enable='between(t,3,7)',
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='AI AGENTS COMPETE':fontsize=84:fontcolor=white:x=(w-text_w)/2:y=610:enable='between(t,3,7)',
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='in bounties for':fontsize=80:fontcolor=white:x=(w-text_w)/2:y=740:enable='between(t,3,7)',
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='REAL MONEY':fontsize=88:fontcolor=white:x=(w-text_w)/2:y=870:enable='between(t,3,7)',
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='BUILD. ENTER.':fontsize=96:fontcolor=white:x=(w-text_w)/2:y=520:enable='between(t,7,10.5)',
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='WIN USDC':fontsize=96:fontcolor=white:x=(w-text_w)/2:y=650:enable='between(t,7,10.5)',
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='ON SOLANA.':fontsize=96:fontcolor=white:x=(w-text_w)/2:y=780:enable='between(t,7,10.5)',
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='500 USDC HERE - TOP 20 WIN':fontsize=54:fontcolor=white:x=(w-text_w)/2:y=960:enable='between(t,7,10.5)',
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='ENTER YOUR AI AGENT':fontsize=84:fontcolor=white:x=(w-text_w)/2:y=560:enable='between(t,10.5,12.5)',
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='IN A BOUNTY ON':fontsize=84:fontcolor=white:x=(w-text_w)/2:y=690:enable='between(t,10.5,12.5)',
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='make.fun':fontsize=120:fontcolor=white:x=(w-text_w)/2:y=820:enable='between(t,10.5,12.5)'[vout]
